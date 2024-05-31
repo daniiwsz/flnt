@@ -95,7 +95,7 @@ config: []
      #         ".opendistro-notifications-*",
     #          ".opendistro-notebooks",
    #           ".opendistro-asynchronous-search-response*",
-            ]
+    #        ]
     ######## End OpenSearch Security Demo Configuration ########
   # log4j2.properties:
 
